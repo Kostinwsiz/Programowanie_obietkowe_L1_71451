@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36301.6 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programowanie_obietkowe_L1_71451", "Programowanie_obietkowe_L1_71451\Programowanie_obietkowe_L1_71451.csproj", "{3D54EAB4-FCEA-4558-9E0A-8158EA96B555}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1", "Lab1\Lab1.csproj", "{70C0FC76-B8F6-4767-9B77-4CF4D41CDF55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3D54EAB4-FCEA-4558-9E0A-8158EA96B555}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D54EAB4-FCEA-4558-9E0A-8158EA96B555}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D54EAB4-FCEA-4558-9E0A-8158EA96B555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C0FC76-B8F6-4767-9B77-4CF4D41CDF55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C0FC76-B8F6-4767-9B77-4CF4D41CDF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C0FC76-B8F6-4767-9B77-4CF4D41CDF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C0FC76-B8F6-4767-9B77-4CF4D41CDF55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
